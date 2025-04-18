@@ -2,7 +2,7 @@ import pandas as pd
 from datetime import datetime, timedelta
 import random
 
-
+# adding comment and committing, testing github. 
 # if I was to use this code much I would at a minimum create another .py to store all the functions so this main file would just contain the main() at the bottom.
 
 
